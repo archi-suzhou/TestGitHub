@@ -13,6 +13,7 @@ namespace TestGitHub.WebApplication1
         {
 
             string o = "0000000";
+            string p = "";
         }
     }
 }
