@@ -12,6 +12,7 @@ namespace TestGitHub.WebApplication1
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            string o = "0000000";
         }
     }
 }
